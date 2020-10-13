@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17/8.1.1.4/cn/20200908213734/2b315cc7/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://us-dl.mokeedev.com/firmware/TUsxMDAuMC1mYWppdGEtMjAyMDEwMTMwNTIyLU5JR0hUTFkuemlwfGZpcm13YXJlfDE2MDI2MzQzNDY/MK100.0-fajita-202010130522-NIGHTLY.zip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
